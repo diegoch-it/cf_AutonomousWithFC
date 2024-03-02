@@ -1,3 +1,3 @@
-# Development of an autonomous commander for the CrazyFlie 2.0
+# Development of an autonomous commander for the CrazyFlie 2.1
 
-![Crazyflie 2.1](/../../../../github/cf_AutonomousWithFC/pics/electrocat.png)
+![Crazyflie 2.1](https://github.com/diegoch-it/cf_AutonomousWithFC/blob/main/pics/crazyflie_2.1_585px.jpg)
